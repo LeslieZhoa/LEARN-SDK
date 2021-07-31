@@ -1,0 +1,15 @@
+*.iml
+build_so/.gradle
+build_so/local.properties
+build_so/.idea
+build_so/app/.cxx
+build_so/app/build
+build_so/libBuild
+thirdjni/.gradle
+thirdjni/local.properties
+thirdjni/.idea
+thirdjni/app/.cxx
+thirdjni/app/build
+
+
+

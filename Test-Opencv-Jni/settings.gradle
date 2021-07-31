@@ -1,0 +1,3 @@
+rootProject.name = "121111"
+include ':app'
+include ':openCVLibrary343'
